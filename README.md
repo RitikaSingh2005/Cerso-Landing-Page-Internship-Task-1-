@@ -31,26 +31,5 @@ A fully responsive, modern, and professional landing page for **Cerso**, a web d
 - **Vanilla JavaScript**: Lightweight DOM manipulation for mobile menus and scroll intersection observers (No heavy frameworks).
 - **Phosphor Icons**: A flexible icon family for modern interfaces.
 
-## 💻 Running Locally
+Live Working URL: cerso-landing-page-internship-task.vercel.app
 
-To run this project locally on your machine:
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/RitikaSingh2005/Cerso-Landing-Page-Internship-Task-1-.git
-   ```
-2. Navigate into the directory:
-   ```bash
-   cd Cerso-Landing-Page-Internship-Task-1-
-   ```
-3. Open `index.html` directly in your browser, or start a local server using npx:
-   ```bash
-   npx serve .
-   ```
-
-## 🌐 Deployment
-
-This project is built to be deployed easily on platforms like Vercel, Netlify, or GitHub Pages. Since it uses static HTML/CSS/JS, simply connect your repository to Vercel and it will deploy instantly with zero configuration needed.
-
----
-*Created by [Ritika Singh](https://github.com/RitikaSingh2005) for Internship Task 1.*
